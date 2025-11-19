@@ -1,6 +1,6 @@
-# ChatGPT Clone – Frontend
+# ZAI – Frontend
 
-This is the frontend of the **ChatGPT Clone** built using **Next.js 14 (App Router)** and **Tailwind CSS**. It connects to a NestJS backend API to simulate real-time conversations with AI.
+This is the frontend of **ZAI** built using **Next.js 14 (App Router)** and **Tailwind CSS**. It connects to a NestJS backend API to simulate real-time conversations with AI.
 
 ## ✨ Features
 
@@ -11,26 +11,26 @@ This is the frontend of the **ChatGPT Clone** built using **Next.js 14 (App Rout
 
 ## 🔗 Live Demo
 
-[https://chatgpt-clone.ziadgamal.com/](https://chatgpt-clone.ziadgamal.com/)
+[https://zai-ziadgamal.vercel.app/](https://zai-ziadgamal.vercel.app/)
 
 ## 🚀 Backend Repo
 
-Check the backend here: [chatgpt-clone-backend](https://github.com/ZiadGamalDev/chatgpt-clone-backend)
+Check the backend here: [zai-backend](https://github.com/ZiadGamalDev/zai-backend)
 
 ## 🛠️ Technologies Used
 
 - **Next.js 14 (App Router)**
 - **TypeScript**
 - **Tailwind CSS**
-- **OpenAI API (via backend)**
+- **AI API (via backend)**
 
 ## 📦 Getting Started
 
 1. **Clone the repo**:
 
 ```bash
-git clone https://github.com/ZiadGamalDev/chatgpt-clone-frontend.git
-cd chatgpt-clone-frontend
+git clone https://github.com/ZiadGamalDev/zai-frontend.git
+cd zai-frontend
 ```
 
 2. **Install dependencies**:
@@ -44,7 +44,7 @@ npm install
 Create a `.env.local` file and add:
 
 ```env
-NEXT_PUBLIC_API_URL=https://chatgpt-clone-api.ziadgamal.com
+NEXT_PUBLIC_API_URL=https://zai-api.ziadgamal.com
 ```
 
 4. **Run the app locally**:

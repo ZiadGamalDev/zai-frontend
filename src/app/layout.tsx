@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ChatGPT Clone - AI Chat Assistant",
-  description: "A modern ChatGPT clone using Next.js and OpenAI API with real-time messaging",
+  title: "ZAI - AI Chat Assistant",
+  description: "A modern AI chat assistant using Next.js with real-time messaging",
 };
 
 export default function RootLayout({

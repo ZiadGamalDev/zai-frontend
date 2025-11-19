@@ -1,18 +1,1 @@
-{
-  "env": {
-    "NEXT_PUBLIC_API_URL": "https://chatgpt-clone-api.ziadgamal.com"
-  },
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://chatgpt-clone.ziadgamal.com/$1",
-      "permanent": true,
-      "has": [
-        {
-          "type": "host",
-          "value": "chatgpt-clone-frontend-alpha.vercel.app"
-        }
-      ]
-    }
-  ]
-}
+{}

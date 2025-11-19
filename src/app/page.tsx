@@ -68,7 +68,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col h-screen bg-gray-900 text-white items-center">
-      <h1 className="text-2xl font-bold my-4">ChatGPT Clone</h1>
+      <h1 className="text-2xl font-bold my-4">ZAI</h1>
 
       <div className="flex-1 w-full max-w-2xl overflow-y-auto p-4 space-y-4">
         {messages.map((msg, index) => (
